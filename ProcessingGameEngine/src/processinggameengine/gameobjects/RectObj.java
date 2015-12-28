@@ -5,7 +5,7 @@ import processing.core.PApplet;
 public class RectObj extends GObject {
 	protected int width;
 	protected int height;
-	private int color;
+	protected int color;
 
 	/*
 	 * KONSTRUKTOREN
